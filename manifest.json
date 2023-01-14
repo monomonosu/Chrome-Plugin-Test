@@ -1,0 +1,6 @@
+{
+    "name": "拡張機能テスト",
+    "description": "拡張機能の作成テストをしてみる。",
+    "version": "1.0.0",
+    "manifest_version": "1"
+}
